@@ -7,7 +7,7 @@ Minha especialidade é transformar processos manuais e burocráticos em fluxos i
 🔭 **Projetos em Destaque:**
 * **AI Sales Agent (RAG):** Um agente autônomo que realiza triagem de leads, qualificação e handoff para humanos via WhatsApp (Redução de gargalos operacionais).
 * **Banking Integration Hub:** Centralização de múltiplas APIs bancárias em uma interface única para agilizar esteiras de crédito.
-* **Voltech Solutions:** Desenvolvimento de soluções SaaS focadas em hiperautomação e atendimento.
+* **Voltech:** Desenvolvimento de soluções SaaS focadas em hiperautomação e atendimento.
 
 🛠 **Tech Stack & Ferramentas:**
 
