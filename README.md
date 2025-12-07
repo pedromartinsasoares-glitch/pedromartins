@@ -27,4 +27,4 @@ Minha especialidade é transformar processos manuais e burocráticos em fluxos i
 
 ---
 📫 **Contato:**
-[LinkedIn](LINK_DO_SEU_LINKEDIN_AQUI)
+[LinkedIn](https://www.linkedin.com/in/pedromaaraujo/)
